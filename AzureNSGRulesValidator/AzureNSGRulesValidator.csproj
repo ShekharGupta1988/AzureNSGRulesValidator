@@ -61,6 +61,7 @@
     <Compile Include="AzureAPIClient.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Models\NSGRule.cs" />
+    <Compile Include="NSGRuleValidator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
